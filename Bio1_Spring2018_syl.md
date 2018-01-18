@@ -117,8 +117,9 @@ with retention! The time you spend studying of course, is not the same for every
 
 
 
-Tentative Schedule (subject to change)
-* Week 1:
+### Tentative Schedule 
+
+*  Week 1:
   * 23 Jan 	 Course introduction, The Science of Biology
   * 25 Jan   Introduction to Darwin & Evolution (Ch 1, Ch 20 through Hardy Weinberg)
 * Week 2:
@@ -127,15 +128,12 @@ Tentative Schedule (subject to change)
 * Week 3:
   * 6 Feb	   Origin of Species (Ch 22)
   * 8 Feb	   Systematics, Phylogenies, & Comparative Biology (Ch 23)
-  
 * Week 4:
   * 13 Feb	 The Origin and Diversity of Life (skim Ch 26)
   * 15 Feb   Complete Origin and Diversity of Life; Catch up or Review
-
 * Week 5:
   * 20 Feb	 **Exam 1** (Bring scantron, pencil, & pen!)
   * 22 Feb	 Intro to Ecology, Population biology (Ch 55)
-
 * Week 6:
   * 27 Feb   Community Ecology (Ch 56)
   * 29 Feb	 Ecosystem Ecology (Ch 57)
